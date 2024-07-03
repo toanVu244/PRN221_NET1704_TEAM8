@@ -1,0 +1,35 @@
+﻿@page
+@model JPOS.Controller.ContactUsModel
+@{
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contact Form</title>
+        <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic&display=swap" rel="stylesheet">
+    </head>
+    <body style="font-family: 'Roboto', Helvetica, Arial, sans-serif; font-weight: 100; font-size: 12px; line-height: 30px; color: #777; background: #efefef; margin: 0;">
+
+        <div class="container" style="max-width: 400px; width: 100%; margin: 0 auto; position: relative;">
+            <form action="https://formspree.io/f/mpzbnday" id="contact" method="POST" style="background: #F9F9F9; padding: 25px; margin: 150px 0; box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);">
+                <h3 style="display: block; font-size: 30px; font-weight: 300; margin-bottom: 10px; text-align: center;">Liên hệ với chúng tôi</h3>
+                <h4 style="margin: 5px 0 15px; display: block; font-size: 13px; font-weight: 400; text-align: center;">Chúng tôi sẽ trả lời bạn trong vòng 24 giờ.</h4>
+                <fieldset style="border: none; margin: 0 0 10px; min-width: 100%; padding: 0; width: 100%;">
+                    <input placeholder="Họ và tên" type="text" tabindex="1" required style="width: 100%; border: 1px solid #ccc; background: #FFF; margin: 0 0 5px; padding: 10px;" />
+                </fieldset>
+                <fieldset style="border: none; margin: 0 0 10px; min-width: 100%; padding: 0; width: 100%;">
+                    <input placeholder="Email" type="email" tabindex="2" name="email" required style="width: 100%; border: 1px solid #ccc; background: #FFF; margin: 0 0 5px; padding: 10px;" />
+                </fieldset>
+                <fieldset style="border: none; margin: 0 0 10px; min-width: 100%; padding: 0; width: 100%;">
+                    <input placeholder="Số điện thoại (tùy ý)" type="tel" tabindex="3" style="width: 100%; border: 1px solid #ccc; background: #FFF; margin: 0 0 5px; padding: 10px;" />
+                </fieldset>
+                <fieldset style="border: none; margin: 0 0 10px; min-width: 100%; padding: 0; width: 100%;">
+                    <textarea placeholder="Mô tả chi tiết" tabindex="5" name="message" required style="width: 100%; border: 1px solid #ccc; background: #FFF; margin: 0 0 5px; padding: 10px; height: 100px; max-width: 100%; resize: none;"></textarea>
+                </fieldset>
+                <fieldset style="border: none; margin: 0 0 10px; min-width: 100%; padding: 0; width: 100%;">
+                    <button name="submit" type="submit" id="contact-submit" data-submit="...Enviando" style="cursor: pointer; width: 100%; border: none; background: rgb(241,234,217); color: #000000; margin: 0 0 5px; padding: 10px; font-size: 15px;">Đăng kí</button>
+                </fieldset>
+            </form>
+        </div>
+
+    </body>
+}

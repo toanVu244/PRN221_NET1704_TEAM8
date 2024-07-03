@@ -1,0 +1,14 @@
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.csproj.AssemblyReference.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.AssemblyInfoInputs.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.AssemblyInfo.cs
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.csproj.CoreCompileInputs.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\bin\Debug\net6.0\JPOS.Utility.deps.json
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\bin\Debug\net6.0\JPOS.Utility.runtimeconfig.json
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\bin\Debug\net6.0\JPOS.Utility.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\bin\Debug\net6.0\JPOS.Utility.pdb
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\refint\JPOS.Utility.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.pdb
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\JPOS.Utility.genruntimeconfig.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Utility\obj\Debug\net6.0\ref\JPOS.Utility.dll
