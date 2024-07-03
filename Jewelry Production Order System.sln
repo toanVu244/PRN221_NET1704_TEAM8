@@ -5,11 +5,11 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPOS.Controller", "JPOS.Controller\JPOS.Controller.csproj", "{82754B4F-50FB-4C9B-93BD-8CBD397354DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPOS.Service", "JPOS.Service\JPOS.Service.csproj", "{0CFC060A-93C7-4743-A648-E17FC8822027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPOS.Service", "JPOS.Service\JPOS.Service.csproj", "{0CFC060A-93C7-4743-A648-E17FC8822027}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPOS.Model", "JPOS.Model\JPOS.Model.csproj", "{CC4A46FD-700D-4C2C-9F4E-89E933CD5280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPOS.Model", "JPOS.Model\JPOS.Model.csproj", "{CC4A46FD-700D-4C2C-9F4E-89E933CD5280}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JPOS.Utility", "JPOS.Utility\JPOS.Utility.csproj", "{1BEE4B7E-4188-4140-A1FA-CCDB51959299}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JPOS.Utility", "JPOS.Utility\JPOS.Utility.csproj", "{1BEE4B7E-4188-4140-A1FA-CCDB51959299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
