@@ -12,3 +12,17 @@ C:\Users\ToanVu\source\repos\PRN221_NET1704_JPOS\PRN221_NET1704_TEAM8\JPOS.Model
 C:\Users\ToanVu\source\repos\PRN221_NET1704_JPOS\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.pdb
 C:\Users\ToanVu\source\repos\PRN221_NET1704_JPOS\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.genruntimeconfig.cache
 C:\Users\ToanVu\source\repos\PRN221_NET1704_JPOS\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\ref\JPOS.Model.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\bin\Debug\net6.0\JPOS.Model.deps.json
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\bin\Debug\net6.0\JPOS.Model.runtimeconfig.json
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\bin\Debug\net6.0\JPOS.Model.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\bin\Debug\net6.0\JPOS.Model.pdb
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.csproj.AssemblyReference.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.AssemblyInfoInputs.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.AssemblyInfo.cs
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.csproj.CoreCompileInputs.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\refint\JPOS.Model.dll
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.pdb
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\JPOS.Model.genruntimeconfig.cache
+D:\FPT\Documents\PRN221\PRN221_NET1704_TEAM8\JPOS.Model\obj\Debug\net6.0\ref\JPOS.Model.dll
