@@ -3,7 +3,6 @@ using JPOS.Model.Entities;
 using JPOS.Model.Models;
 using JPOS.Model.Models.AppConfig;
 using JPOS.Service.Interfaces;
-using Microsoft.AspNetCore.Mvc.Formatters;
 using System;
 using System.Collections.Generic;
 using System.Linq;
