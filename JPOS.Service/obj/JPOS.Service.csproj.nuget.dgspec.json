@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj": {}
+    "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj": {}
   },
   "projects": {
-    "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj": {
+    "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj",
         "projectName": "JPOS.Model",
-        "projectPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\obj\\",
+        "projectPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj",
+        "packagesPath": "C:\\Users\\ToanVu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ToanVu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -87,21 +92,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj": {
+    "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj",
+        "projectUniqueName": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj",
         "projectName": "JPOS.Service",
-        "projectPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Service\\obj\\",
+        "projectPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Service\\JPOS.Service.csproj",
+        "packagesPath": "C:\\Users\\ToanVu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ToanVu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -109,17 +118,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj": {
-                "projectPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj"
+              "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj": {
+                "projectPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Model\\JPOS.Model.csproj"
               },
-              "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj": {
-                "projectPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj"
+              "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj": {
+                "projectPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj"
               }
             }
           }
@@ -181,21 +191,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj": {
+    "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj",
         "projectName": "JPOS.Utility",
-        "projectPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj",
-        "packagesPath": "C:\\Users\\thien.nguyen\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT\\Documents\\PRN221\\PRN221_NET1704_TEAM8\\JPOS.Utility\\obj\\",
+        "projectPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\JPOS.Utility.csproj",
+        "packagesPath": "C:\\Users\\ToanVu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ToanVu\\source\\repos\\PRN221_NET1704_JPOS\\PRN221_NET1704_TEAM8\\JPOS.Utility\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\thien.nguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ToanVu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,6 +217,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 23.1\\Components\\System\\Components\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -268,7 +283,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

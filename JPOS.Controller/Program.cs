@@ -1,7 +1,26 @@
+using JPOS.Model.Repositories.Interfaces;
+using JPOS.Model;
+using JPOS.Service.Implementations;
+using JPOS.Service.Interfaces;
+using JPOS.Model.Entities;
+using Microsoft.EntityFrameworkCore;
+using JPOS.Service.Tools;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddCors(options => options.AddDefaultPolicy(policy => policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
+builder.Services.AddDbContext<JPOSDbContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DB"));
+    options.UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking);
+});
+builder.Services.AddAutoMapper(typeof(ApplicationMapper));
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
+builder.Services.AddSingleton<IVnPayService, VnPayService>();
 
 var app = builder.Build();
 
@@ -13,8 +32,10 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+app.UseCors();
 
 app.UseRouting();
 
