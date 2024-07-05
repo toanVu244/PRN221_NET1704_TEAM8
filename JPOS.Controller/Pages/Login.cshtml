@@ -1,0 +1,19 @@
+﻿@page
+@model JPOS.Controller.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+
+    <body>
+    <form  method="Post">
+            <p>
+                <label>Username</label>
+                <input type="text" name="UserName" /> <br />
+            </p>
+            <p>
+                <label>Password</label>
+                <input type="password" name="Password" />
+            </p>
+            <button type="submit" name="btnLogin">Login</button>
+    </form>
+    </body>
+}

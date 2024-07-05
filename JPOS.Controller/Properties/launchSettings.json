@@ -1,21 +1,14 @@
-﻿{
-  "iisSettings": {
-    "windowsAuthentication": false,
-    "anonymousAuthentication": true,
-    "iisExpress": {
-      "applicationUrl": "http://localhost:22069",
-      "sslPort": 44351
-    }
-  },
+{
   "profiles": {
     "JPOS.Controller": {
       "commandName": "Project",
-      "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7243;http://localhost:5272",
+      "launchUrl": "Home",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "https://localhost:7243;http://localhost:5272"
     },
     "IIS Express": {
       "commandName": "IISExpress",
@@ -23,6 +16,14 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:22069",
+      "sslPort": 44351
     }
   }
 }

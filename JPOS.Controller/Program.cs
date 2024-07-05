@@ -7,6 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using JPOS.Service.Tools;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddSession();
 
 // Add services to the container.
 builder.Services.AddCors(options => options.AddDefaultPolicy(policy => policy.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
@@ -17,6 +18,8 @@ builder.Services.AddDbContext<JPOSDbContext>(options =>
 });
 builder.Services.AddAutoMapper(typeof(ApplicationMapper));
 builder.Services.AddRazorPages();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IUserServices, UserServices>();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
